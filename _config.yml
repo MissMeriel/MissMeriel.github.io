@@ -11,9 +11,9 @@ title: "Meriel von Stein"
 title_separator: "-"
 name: &name "Meriel von Stein"
 description: &description "Ph.D. Student at the University of Virginia interested in development, testing, and analysis of autonomous cyberphysical systems."
-url: "https://davidshriver.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://missmeriel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "dlshriver/dlshriver.github.io"
+repository: "missmeriel/missmeriel.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -85,7 +85,7 @@ author:
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=EJgJonIAAAAJ"
-  email: "davidshriver@outlook.com"
+  email: "meriel@virginia.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
