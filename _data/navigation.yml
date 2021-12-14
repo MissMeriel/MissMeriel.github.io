@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  - title: "Tools and Artifacts"
+    url: /artifacts/
+
+  - title: "CV"
+    url: /files/vonstein_cv.pdf
