@@ -84,7 +84,7 @@ author:
   location: "Charlottesville, VA, USA"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=EJgJonIAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?user=f7Fz5FUAAAAJ&hl=en"
   email: "meriel@virginia.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "meriel-von-stein-b7318060"
-  orcid: 
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
