@@ -2,7 +2,7 @@
 collection: publications
 downloads:
   paper: /files/publications/ICRA2021-DDEnv.pdf
-  tool: https://github.com/MissMeriel/ddenv
+  repo: https://github.com/MissMeriel/ddenv
   video: https://youtu.be/GhXlONbvx1Y
 type: inproceedings
 identifier: "vonstein-etal:icra:2021"
