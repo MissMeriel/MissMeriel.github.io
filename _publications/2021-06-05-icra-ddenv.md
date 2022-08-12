@@ -3,7 +3,7 @@ collection: publications
 downloads:
   paper: /files/publications/ICRA2021-DDEnv.pdf
   repo: https://github.com/MissMeriel/ddenv
-  video: https://youtu.be/GhXlONbvx1Y
+  video: https://youtu.be/fswfUPFx3v4
 type: inproceedings
 identifier: "vonstein-etal:icra:2021"
 author: [Meriel von Stein, Sebastian Elbaum]
