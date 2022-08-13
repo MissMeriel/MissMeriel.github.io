@@ -1,10 +1,11 @@
 ---
 collection: artifacts
 title: "GPSS: Environmentally situated state-aware adversarial perturbations"
-excerpt: ""
+excerpt: "Leverage spatiotemporal relationships inherent in autonomous software executions to generate adversarial testing scenarios."
 access_url: https://github.com/MissMeriel/superdeepbillboard
-links: 
-    GitHub: https://github.com/MissMeriel/superdeepbillboard
+# links: 
+#     GitHub: https://github.com/MissMeriel/superdeepbillboard
+teaser: 
 ---
 
 <img src="{{'/images/tools/dnnv.png' | absolute_url}}">

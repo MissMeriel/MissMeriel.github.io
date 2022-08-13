@@ -3,8 +3,9 @@ collection: artifacts
 title: "Rosbag data cleaning and spline interpolation"
 excerpt: "Find largest common subinterval among publish rates and interpolate values to populate subintervals by data type."
 access_url: https://github.com/less-lab-uva/bag2csv
-links: 
-    GitHub: https://github.com/less-lab-uva/bag2csv
+# links: 
+#     GitHub: https://github.com/less-lab-uva/bag2csv
+teaser: 
 ---
 
 <img src="{{'/images/tools/dnnv.png' | absolute_url}}">

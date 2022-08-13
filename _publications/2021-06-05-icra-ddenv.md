@@ -17,4 +17,5 @@ abstract: "Complex environments can cause robots to fail. Identifying the key el
 citation: "M. von Stein and S. Elbaum, 'Automated Environment Reduction for Debugging Robotic Systems,' 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 3985-3991, doi: 10.1109/ICRA48506.2021.9561997."
 timestamp: Tue, 05 June 2021 14:26:30 -0500
 date: 2021-06-05
+teaser: /publications/icra2021-ddenv-friction.png
 ---

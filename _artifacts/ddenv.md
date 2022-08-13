@@ -3,9 +3,9 @@ collection: artifacts
 title: "DDEnv"
 excerpt: "End-to-end tool for delta-debugging robotic environments with a semi-known failure distribution."
 access_url: https://github.com/MissMeriel/DDEnv
-links: 
-    GitHub: https://github.com/MissMeriel/DDEnv
-
+# links: 
+#     GitHub: https://github.com/MissMeriel/DDEnv
+teaser: 
 ---
 
 <img src="{{'/images/tools/dnnf.png' | absolute_url}}">
