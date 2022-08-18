@@ -27,17 +27,17 @@
   }
 }
 
-.archive__subtitle {
-  margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
-  font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
-  border-bottom: 1px solid $border-color;
+// .archive__subtitle {
+//   margin: 1.414em 0 0;
+//   padding-bottom: 0.5em;
+//   font-size: $type-size-5;
+//   color: mix(#fff, $gray, 25%);
+//   border-bottom: 1px solid $border-color;
 
-  + .list__item .archive__item-title {
-    margin-top: 0.5em;
-  }
-}
+//   + .list__item .archive__item-title {
+//     margin-top: 0.5em;
+//   }
+// }
 
 .archive__item-title {
   margin-bottom: 0.25em;
@@ -46,19 +46,31 @@
   a + a {
     opacity: 0.5;
   }
+  margin-top: 1em;
+  // border: 2px solid burlywood;
+  width: 70%;
+  float: right;
+  clear: right;
 }
 
 /* remove border*/
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0em;
+    margin-bottom: 0em;
     border-bottom: none;
+    // float: right;
+    // padding: 5px;
+    // width: 70%;
+    // clear: right;
+    // border: 2px solid black;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
+  margin-bottom: 0;
   font-size: $type-size-6;
 
   & + p {
@@ -72,12 +84,13 @@
   img {
     width: 100%;
   }
+  padding: 20px;
 }
 
 .archive__item:hover {
-  .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
+  // .archive__item-teaser {
+  //   box-shadow: 0 0 10px rgba(#000, 0.25);
+  // }
 
   .archive__item-title {
     text-decoration: underline;
@@ -101,10 +114,13 @@
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
   }
+  // border: 3px solid orange;
+  padding: 20px;
+  display: flex;
 
   .page__meta {
-    // margin: 0 0 4px;
-    // padding: 20px;
+    margin: 0 0 4px;
+    padding: 5px;
     vertical-align: middle;
   }
 
@@ -112,22 +128,37 @@
     display: flex;
     width: 30%;
     float: left;
-    // padding: 20px;
-    // border: 3px solid black;
+    vertical-align: middle;
     // min-height: 200px;
-    max-height: 350px;
+    max-height: 250px;
     margin-left: auto;
     clear: left;
+    // border: 2px solid blueviolet;
   }
 
   .archive__item-excerpt {
-    float: right;
-    display: flex;
-    margin-right: auto;
+    // display: flex;
+    // margin-right: auto;
+    // // vertical-align: middle;
     width: 70%;
-    vertical-align: middle;
+    float: right;
+    // padding: 20px;
+    // border: 2px solid red;
+    clear: right;
   }
 
+  .archive__item-downloads {
+    display: right;
+    // // display: inline-block;
+    // margin-right: auto;
+    // vertical-align: top;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    width: 70%;
+    float: right;
+    // border: 2px solid olivedrab;
+    clear: right;
+  }
 
 }
 
