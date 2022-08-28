@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.artifacts %}
-  {% include archive-single.html type='grid'%}
+{% for post in site.artifacts reversed %}
+  {% include archive-single-talk-cv.html type='grid'%}
 {% endfor %}
-

@@ -1,8 +1,8 @@
 ---
 collection: artifacts
-title: "Github repo scraper for robotic swarm projects"
-excerpt: "Scrape github for swarm projects that fit criteria for project maturity and centering around swarm control."
-access_url: https://github.com/MissMeriel/swarm_scraper
+title: "OpenPilot Falsification"
+# excerpt: "Extending falsifier DNNF for falsifying real-world industrial driving networks"
+access_url: https://github.com/MissMeriel/openpilot-falsification
 # links: 
 #     GitHub: https://github.com/MissMeriel/swarm_scraper
 teaser: 
