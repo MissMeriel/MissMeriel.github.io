@@ -1,8 +1,8 @@
 ---
 collection: publications
 downloads:
-  presentation: files/publications/quals-defense-presentation.pdf
-  paper: files/publications/quals-final-report.pdf
+  presentation: /files/publications/quals-defense-presentation.pdf
+  paper: /files/publications/quals-final-report.pdf
 type: mastersthesis
 identifier: "stein:quals"
 author: [Meriel von Stein]
