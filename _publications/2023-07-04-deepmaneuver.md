@@ -2,6 +2,7 @@
 collection: publications
 downloads:
   poster: /files/posters/DeepManeuver-Poster-spring23-CRA.pdf
+  repo: https://github.com/MissMeriel/DeepManeuver
 type: inproceedings
 identifier: "vonstein-et-al:tse:2022"
 author: [Meriel von Stein, David Shriver, Sebastian Elbaum]
