@@ -9,3 +9,4 @@ It is based on the [academicpages](https://github.com/academicpages/academicpage
 2. Extracurr section
 3. Teaching section
 4. Research topic blog section
+5. Section on resources for new grad students and those considering grad school
