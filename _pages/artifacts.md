@@ -5,12 +5,6 @@ permalink: /artifacts/
 author_profile: true
 ---
 
-<!-- {% include base_path %}
-
-{% for post in site.artifacts reversed %}
-  {% include archive-single-talk-cv.html type='grid'%}
-{% endfor %} -->
-
 - [DeepManeuver](https://github.com/MissMeriel/DeepManeuver): This repo contains the tools, paper, and study data for "DeepManeuver: Adversarial Test Generation for Trajectory Manipulation of Autonomous Vehicles". DOI 10.1109/TSE.2023.3301443. An archived copy of this repo and the data for this paper can be found at Zenodo record 8284708 and Zenodo record 8284640, respectively.
 - [ROSbot Computer Vision and Actuation Test Platform](https://github.com/MissMeriel/ROSbot_data_collection): This repository contains instructions and source code for using the ROSbot to collect a dataset by driving around using the Husarion ROSbot 2.0. It contains instructions to install, troubleshoot, and initialize the onboard data collection routine for the ROSbot. It also contains training scripts for a DAVE2 steering model and pytorch implmentations of other architectures. 
 - [DDEnv](https://github.com/MissMeriel/DDEnv): DNNF is a tool for applying falsification methods such as adversarial attacks to the checking of DNN correctness problems.
