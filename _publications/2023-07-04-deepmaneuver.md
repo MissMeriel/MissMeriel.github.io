@@ -1,6 +1,7 @@
 ---
 collection: publications
 downloads:
+  paper: https://ieeexplore.ieee.org/abstract/document/10213222
   poster: /files/posters/DeepManeuver-Poster-spring23-CRA.pdf
   repo: https://github.com/MissMeriel/DeepManeuver
 type: inproceedings
