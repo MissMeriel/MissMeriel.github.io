@@ -10,6 +10,10 @@ Leadership, service, honors, and activities I'm up to :sunglasses:
 
 {% include base_path %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for post in site.news reversed%}
+  <article>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt | strip_html }}</p>
+    <!-- You can customize the above code based on your needs -->
+  </article>
 {% endfor %}
