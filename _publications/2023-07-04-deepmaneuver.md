@@ -4,6 +4,7 @@ downloads:
   paper: https://ieeexplore.ieee.org/abstract/document/10213222
   poster: /files/posters/DeepManeuver-Poster-spring23-CRA.pdf
   repo: https://github.com/MissMeriel/DeepManeuver
+  video: https://www.youtube.com/watch?v=eLaEFqttFmM
 type: inproceedings
 identifier: "vonstein-et-al:tse:2022"
 author: [Meriel von Stein, David Shriver, Sebastian Elbaum]
