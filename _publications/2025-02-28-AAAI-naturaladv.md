@@ -12,5 +12,5 @@ abstract: "Deep Neural Networks (DNNs) have become integral to various real-worl
 citation: ""
 timestamp: Thurs, 28 February 2025 19:51:04 UTC
 date: 2025-02-28
-teaser: /publications/AAAI2025-naturalADV.png
+teaser: /publications/AAAI2025-naturalADV.jpg
 ---
