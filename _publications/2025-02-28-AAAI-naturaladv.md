@@ -1,7 +1,7 @@
 ---
 collection: publications
 downloads:
-  paper: /files/publications/AAAI2025-DATASAFE-naturaladv-poster.pdf
+  poster: /files/posters/AAAI2025-DATASAFE-naturaladv-poster.pdf
 type: poster
 identifier: "vonstein:AAAI2025DATASAFE"
 author: [Meriel von Stein]
