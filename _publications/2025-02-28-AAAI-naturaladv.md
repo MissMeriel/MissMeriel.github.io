@@ -2,6 +2,7 @@
 collection: publications
 downloads:
   poster: /files/posters/AAAI2025-DATASAFE-naturaladv-poster.pdf
+  repo: https://github.com/MissMeriel/NaturalADV
 type: poster
 identifier: "vonstein:AAAI2025DATASAFE"
 author: [Meriel von Stein]
