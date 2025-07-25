@@ -2,7 +2,7 @@
 title: "SE4SafeML Workshop @ FSE"
 collection: news
 type: "Workshop"
-permalink: /news/2015-test
+permalink: "https://www.cs.toronto.edu/~se4safeml/index.html"
 venue: "University 1, Department"
 date: 2023-12-04
 location: "San Francisco, USA"

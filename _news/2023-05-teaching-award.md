@@ -2,7 +2,7 @@
 title: "University-wide graduate teaching award"
 collection: news
 type: "Honors"
-permalink: /news/2015-test
+permalink: "https://gradstudies.virginia.edu/all-university-graduate-teaching-awards-and-disciplinary-area-awards"
 venue: "University of Virginia"
 date: 2023-05-01
 location: "Charlottesville VA, USA"
