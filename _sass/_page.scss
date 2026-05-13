@@ -36,7 +36,9 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.2;
+  font-family: $header-font-family;
+  font-weight: 600;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -52,7 +54,15 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $info-color;
+    font-family: $header-font-family;
+    font-weight: 600;
+    color: $primary-color;
+  }
+
+  h3, h4 {
+    font-family: $header-font-family;
+    font-weight: 600;
   }
 
   p, li, dl {
