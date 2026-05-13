@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Meriel von Stein"
 title_separator: "-"
 name: &name "Meriel von Stein"
-description: &description "Ph.D. Student at the University of Virginia interested in development, testing, and analysis of autonomous cyberphysical systems."
+description: &description "Information Scientist at RAND Corporation. Researcher in AI/ML reliability and safety, with applications to policy and autonomous systems."
 url: "https://missmeriel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "missmeriel/missmeriel.github.io"
@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Meriel von Stein"
   avatar: "avatar.png"
-  bio: "Ph.D. Student at the University of Virginia interested in development, testing, and analysis of autonomous cyberphysical systems."
-  location: "Charlottesville, VA, USA"
+  bio: "Information Scientist at RAND Corporation. Researcher in AI/ML reliability, safety, and policy."
+  location: "Washington, D.C."
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=f7Fz5FUAAAAJ&hl=en"
-  email: "meriel@virginia.edu"
+  email: "vonsteinmeriel@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:

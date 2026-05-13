@@ -8,22 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-===
+## Bio
 
-Meriel von Stein is a PhD Candidate in the Computer Science Department at the University of Virginia (UVA), advised by [Dr. Sebastian Elbaum](https://engineering.virginia.edu/faculty/sebastian-elbaum), and a founding member of [LESS lab](https://less-lab-uva.github.io/). Her research expertise lies at the intersection of software engineering, robotics, and AI/ML for perception, with a focus on developing techniques to assess and ensure the robustness of AI/ML-enabled safety-critical systems. Meriel’s work has been published in leading venues, including Transactions on Software Engineering (TSE), the IEEE International Conference on Software Engineering (ICSE), IEEE Robotics and Automation Letters (RA-L), and the International Conference on Robotics and Automation (ICRA). She has been recognized as a Copenhaver Graduate Fellow for her contributions to research, and she received the university-wide Graduate Teaching Award for excellence in teaching and novel contributions to the UVA Computer Science curriculum.
+Meriel von Stein is an Information Scientist at [RAND Corporation](https://www.rand.org), where she studies questions at the intersection of AI reliability, safety, and technology policy. Her work brings technical grounding to policy-relevant questions about how AI and autonomous systems behave, fail, and should be governed.
 
-Meriel is also an experienced mentor. She has served as Mentoring Chair for the Computer Science Graduate Student Organization for 2 years and has guided undergraduate and high school students on research-driven projects both within and beyond UVA, including FIRST Robotics competitions. A committed member of the research community, she is a frequent reviewer for top conferences and journals and co-chaired the Workshop on Dependability and Trustworthiness of Safety-Critical Systems with Machine Learned Components, collocated with FSE 2023.
+She holds a Ph.D. in Computer Science from the University of Virginia, where she was advised by [Dr. Sebastian Elbaum](https://engineering.virginia.edu/faculty/sebastian-elbaum) and was a founding member of [LESS Lab](https://less-lab-uva.github.io/). Her doctoral research developed techniques for assessing and ensuring the robustness of AI/ML-enabled safety-critical systems, with applications to autonomous vehicles and robotics. Her work has been published in leading venues including Transactions on Software Engineering (TSE), the IEEE International Conference on Software Engineering (ICSE), IEEE Robotics and Automation Letters (RA-L), and the International Conference on Robotics and Automation (ICRA). She was recognized as a Copenhaver Graduate Fellow and received UVA’s university-wide Graduate Teaching Award.
 
-Before pursuing her PhD, Meriel worked as a software engineer at NASA Kennedy Space Center and NASA Goddard Space Flight Center, contributing to the testing of launch control software and the development of satellite ground control systems.
+Before her PhD, Meriel worked as a software engineer at NASA Kennedy Space Center and NASA Goddard Space Flight Center, contributing to launch control software testing and satellite ground control systems development.
 
+Meriel is an active member of the research community. She has co-chaired workshops at top venues (FSE 2023), reviews regularly for leading conferences and journals, and has mentored undergraduate and high school students on research projects, including FIRST Robotics competitions.
 
-Research Interests
-===
-My research interests are in bridging the gap between software and physical environment in robotics and autonomous cyberphysical systems. 
-In particular, I am interested in how we can adapt software engineering methodologies for quality assurance, 
-such as software analysis, testing, and probabilistic prediction, to systems that rely on actuation and the sensed environment to complete their tasks.
-In the general case, my work looks at the problem of weaknesses in learned components for perception.
-Robotics is the application space. I find it interesting and unique because robotic systems are subject to a host of stochastic processes that influence behavior and those processes are extremely difficult to capture, quantify, and reason about.
-These processes are especially difficult to reason about as the cause of nondeterministic behavior in these learned components and the consequences of misbehaviors in safety critical systems such as autonomous mobile robots.
-The techniques I use to address these issues are grounded in current software engineering practices.
+## Research
+
+Meriel’s research sits at the boundary of software engineering, AI/ML, and policy. She is interested in how AI systems fail in the real world — particularly in safety-critical applications — and what that means for how we build, evaluate, and regulate them.
+
+Her technical work focuses on weaknesses in learned perception components, the nondeterministic behavior of autonomous systems in physical environments, and methods for testing and analysis that are meaningful under uncertainty. She is increasingly interested in how these technical realities translate into policy questions: what can regulators and decision-makers actually know about AI system reliability, and what evidence standards are both rigorous and tractable?
+
+Prior to RAND, this work was situated in robotics and autonomous vehicles, where the stakes of perception failures are high and the systems are difficult to evaluate exhaustively.
