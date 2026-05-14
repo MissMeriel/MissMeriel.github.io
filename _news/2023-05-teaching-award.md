@@ -1,15 +1,9 @@
 ---
-title: "University-wide graduate teaching award"
+title: "UVA University-wide Graduate Teaching Award"
 collection: news
-type: "Honors"
-permalink: "https://gradstudies.virginia.edu/all-university-graduate-teaching-awards-and-disciplinary-area-awards"
-venue: "University of Virginia"
+category: "Award"
 date: 2023-05-01
-location: "Charlottesville VA, USA"
-teaser: /publications/quals2020-multirobot-stuck.png
 url: "https://gradstudies.virginia.edu/all-university-graduate-teaching-awards-and-disciplinary-area-awards"
 ---
 
-
-I was awarded the University of Virginia's university-wide graduate teaching award.
-This marked the first time in 8 years that a computer science student won this award :)
+Awarded the University of Virginia's university-wide Graduate Teaching Award for excellence in teaching and novel contributions to the CS curriculum. First CS student to receive the award since 2008.
