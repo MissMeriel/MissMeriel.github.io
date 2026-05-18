@@ -47,10 +47,13 @@
     opacity: 0.5;
   }
   margin-top: 1em;
-  // border: 2px solid burlywood;
-  width: 70%;
-  float: right;
-  clear: right;
+  width: 100%;
+
+  @include breakpoint($small) {
+    width: 70%;
+    float: right;
+    clear: right;
+  }
 }
 
 /* remove border*/
@@ -114,9 +117,10 @@
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
   }
-  // border: 3px solid orange;
+
   padding: 20px;
   display: flex;
+  flex-wrap: wrap;
 
   .page__meta {
     margin: 0 0 4px;
@@ -126,38 +130,39 @@
 
   .archive__item-teaser {
     display: flex;
-    width: 30%;
-    float: left;
-    vertical-align: middle;
-    // min-height: 200px;
+    width: 100%;
     max-height: 250px;
-    margin-left: auto;
-    clear: left;
-    // border: 2px solid blueviolet;
+    margin-bottom: 0.5em;
+
+    @include breakpoint($small) {
+      width: 30%;
+      float: left;
+      margin-bottom: 0;
+      margin-left: auto;
+      clear: left;
+    }
   }
 
   .archive__item-excerpt {
-    // display: flex;
-    // margin-right: auto;
-    // // vertical-align: middle;
-    width: 70%;
-    float: right;
-    // padding: 20px;
-    // border: 2px solid red;
-    clear: right;
+    width: 100%;
+
+    @include breakpoint($small) {
+      width: 70%;
+      float: right;
+      clear: right;
+    }
   }
 
   .archive__item-downloads {
-    display: right;
-    // // display: inline-block;
-    // margin-right: auto;
-    // vertical-align: top;
-    margin-top: 0em;
-    margin-bottom: 0em;
-    width: 70%;
-    float: right;
-    // border: 2px solid olivedrab;
-    clear: right;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+
+    @include breakpoint($small) {
+      width: 70%;
+      float: right;
+      clear: right;
+    }
   }
 
 }

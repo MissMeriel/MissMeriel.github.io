@@ -13,9 +13,13 @@
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 5.5em;
+    left: 4.5em;
     width: 2px;
     background: $border-color;
+
+    @include breakpoint($small) {
+      left: 5.5em;
+    }
 
     @include breakpoint($large) {
       left: 7em;
@@ -26,22 +30,31 @@
 .timeline__item {
   position: relative;
   display: flex;
-  gap: 1.5em;
+  gap: 0.75em;
   margin-bottom: 2em;
   align-items: flex-start;
+
+  @include breakpoint($small) {
+    gap: 1.5em;
+  }
 }
 
 .timeline__date {
-  flex: 0 0 5em;
+  flex: 0 0 4em;
   text-align: right;
   padding-top: 0.2em;
   font-family: $sans-serif;
-  font-size: $type-size-7;
+  font-size: $type-size-8;
   font-weight: 600;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   line-height: 1.4;
+
+  @include breakpoint($small) {
+    flex: 0 0 5em;
+    font-size: $type-size-7;
+  }
 
   @include breakpoint($large) {
     flex: 0 0 6em;
